@@ -1,0 +1,36 @@
+.container{
+    padding-bottom: 100px;
+
+}
+.end{
+    background-color: black;
+    color:white;
+}
+.con{
+    color: lightcoral;
+}
+.card {
+    box-shadow: 6px 6px 25px lightgray;
+    border: none;
+    border-radius: 10px;
+}
+.cat1{
+    box-shadow: 10px 10px 13px lavender;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 8px;
+     
+}
+.cat2{
+    box-shadow: 10px 10px 13px lavender;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 8px;
+   
+}
+.cat3{
+    box-shadow: 10px 10px 13px lavender;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 8px;
+}
